@@ -131,5 +131,29 @@ I also learned that technical findings should be documented clearly. A good cybe
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
 
 8. Evidences Collected
-![Successful ping](Screenshot%202026-10-30%20112221.png)
+## 8. Evidences Collected
+
+**Figure 1: WHOIS lookup**
+![WHOIS lookup](Screenshot%202026-11-11%20111835.png)
+
+**Figure 2: WhatWeb scan**
+![WhatWeb scan](Screenshot%202026-11-11%20112221.png)
+
+**Figure 3: Nslookup result**
+![Nslookup](Screenshot%202026-11-11%20112636.png)
+
+**Figure 4: Curl HTTP headers**
+![Curl headers](Screenshot%202026-11-11%20112817.png)
+
+**Figure 5: Wafw00f WAF detection**
+![Wafw00f](Screenshot%202026-11-11%20112922.png)
+
+**Figure 6: DNSRecon results**
+![DNSRecon](Screenshot%202026-11-11%20113032.png)
+
+**Figure 7: Zenmap network scan**
+![Zenmap scan](Screenshot%202026-11-12%20082728.png)
+
+**Figure 8: Successful ping / Windows CMD**
+![Successful ping](Screenshot%202026-11-12%20082804.png)
 
