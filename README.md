@@ -137,22 +137,21 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 ![WHOIS lookup](Screenshot%202026-11-11%20111835.png)
 
 **Figure 2: WhatWeb scan**
-![WhatWeb scan](Screenshot%202026-11-11%20112221.png)
-
-**Figure 3: Nslookup result**
 ![Nslookup](Screenshot%202026-11-11%20112636.png)
-
-**Figure 4: Curl HTTP headers**
+**Figure 3: Nslookup result**
 ![Curl headers](Screenshot%202026-11-11%20112817.png)
 
-**Figure 5: Wafw00f WAF detection**
+**Figure 4: Curl HTTP headers**
 ![Wafw00f](Screenshot%202026-11-11%20112922.png)
 
-**Figure 6: DNSRecon results**
+**Figure 5: Wafw00f WAF detection**
 ![DNSRecon](Screenshot%202026-11-11%20113032.png)
 
-**Figure 7: Zenmap network scan**
+**Figure 6: DNSRecon results**
 ![Zenmap scan](Screenshot%202026-11-12%20082728.png)
+
+**Figure 7: Zenmap network scan**
+
 
 **Figure 8: Successful ping / Windows CMD**
 ![Successful ping](Screenshot%202026-11-12%20082804.png)
