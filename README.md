@@ -151,8 +151,8 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 ![Zenmap scan](Screenshot%202026-11-12%20082728.png)
 
 **Figure 7: Zenmap network scan**
-
-
-**Figure 8: Successful ping / Windows CMD**
 ![Successful ping](Screenshot%202026-11-12%20082804.png)
+
+
+
 
